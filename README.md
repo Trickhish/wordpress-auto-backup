@@ -37,6 +37,8 @@ It will automatically find all Wordpress installations and save the files and th
 - Backup lifetime configuration
 - Compress backups
 - Logging
+- Backups encryption
+- Partial backups (only DB / only files / no uploads)
 - Email summary
 - ntfy.sh notifications
 - Web interface
