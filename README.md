@@ -30,3 +30,18 @@ It will automatically find all Wordpress installations and save the files and th
     🧮 Saving database 'wp_inst_test'
     ✅ Database saved : /tmp/trickish_wp_backup/backup_test_wp_27-07-2025_17-42/wp_inst_test_backup.sql (113.49 KB)
 ```
+
+## TODO
+- Create a crontab job to schedule regular backups
+- Configuration file
+- Backup lifetime configuration
+- Compress backups
+- Logging
+- Email summary
+- ntfy.sh notifications
+- Web interface
+- Backups restauration
+- Webhooks
+- Save backups to SSH, FTP
+- Export backups using rclone
+- Save backups to AWS S3
